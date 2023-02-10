@@ -1,8 +1,9 @@
 {
   "name": "notzaryab",
-  "version": "0.2.0",
-  "description": "A simple buisness card package",
+  "version": "0.3.0",
+  "description": "A sample package. Do not install",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,7 +15,7 @@
     "notzaryab"
   ],
   "author": "zaraybdev",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/zaryabdev/notzaryab/issues"
   },
